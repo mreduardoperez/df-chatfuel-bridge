@@ -1,0 +1,9 @@
+{
+  "name": "df-chatfuel-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^5.5.0"
+  }
+}
